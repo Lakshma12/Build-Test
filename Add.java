@@ -1,7 +1,5 @@
-package com.example;
-
-public class App {
+class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, Jenkins with Maven!");
+        System.out.println("hello world");
     }
 }
